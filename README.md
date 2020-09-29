@@ -10,7 +10,8 @@
 <br />
 <br />
 
-Hey, I'm **Anup Nair**
+Hey, I'm **Anup Nair**. Currently a Pre Final Year student at College of Engineering, Pune. I love to work with end to end applications and develop code to automate and build stuff. My main interests are in the field of Full Stack Development and Computer Networks. Do feel free to check out my repositories and colab on any challenging and fun ideas!
+Happy Coding!
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **Languages and Tools:**  

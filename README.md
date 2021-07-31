@@ -7,7 +7,7 @@
 <br />
 <br />
 
-Hey, I'm **Anup Nair**. Currently a Pre Final Year student at <b>College of Engineering, Pune</b>, one of India's oldest engineering colleges. I love to work with end to end applications and develop code to automate and build stuff. My main interests are in the field of Full Stack Development, Computer Networks and Systems Programming. 
+Hey, I'm **Anup Nair**. Currently a Final Year student at <b>College of Engineering, Pune</b>, one of India's oldest engineering colleges. I love to work with end to end applications and develop code to automate and build stuff. My main interests are in the field of Full Stack Development, Computer Networks and Systems Programming. 
 Do feel free to check out my repositories and colab on any challenging and fun ideas!
 
 Happy Coding!
@@ -29,7 +29,4 @@ Happy Coding!
   <img alt="Nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img alt = "Git" src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white">
 </p>
-<p>
-<img alt="Anup Nair stats" src="https://github-readme-stats.vercel.app/api?username=AnupNair08&show_icons=true&count_private=true&include_all_commits=true">
-<img alt = "Anup" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnupNair08&layout=compact&hide=Jupyter%20Notebook">
-</p>
+

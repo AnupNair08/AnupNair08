@@ -7,12 +7,11 @@
 <br />
 <br />
 
-Hey, I'm **Anup Nair**. Currently a Final Year student at <b>College of Engineering, Pune</b>, one of Asia's oldest engineering colleges.I love to work with end to end applications and develop code to automate and build stuff. My main interests are in the field of Full Stack Development, Computer Networks and Systems Programming.  
+Hey, I'm **Anup Nair**, a Computer Science graduate from <b>College of Engineering, Pune</b>, one of Asia's oldest engineering colleges. I love to work with end to end applications and develop code to automate and build stuff. My main interests are in the field of Full Stack Development, Computer Networks and Systems Programming.  
 Do feel free to check out my repositories and colab on any challenging and fun ideas!
 
 Happy Coding!
 
-- 🔭 I’m currently learning about Compilers and Network Automation.
 - 🌱 I’m exploring Networking.
 - 🔭 I love to design digital illustrations. 
 - 💬 Ask me about Python, C or MERN Stack.
